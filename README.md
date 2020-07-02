@@ -1,0 +1,2 @@
+# qvt
+This repo contains the spreadsheet app generated for Smith, H. D., Megahed, F. M., Jones‐Farmer, L. A., &amp; Clark, M. (2014). Using visual data mining to enhance the simple tools in statistical process control: A case study. Quality and reliability engineering international, 30(6), 905-917. The original app was located on Auburn's web server and I have moved it here since it is unclear how long it will remain on the site (given that I have moved and no longer have web access). 
